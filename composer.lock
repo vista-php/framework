@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5fabaec266017f285cdd247cf524aac0",
+    "content-hash": "9dac92a35603e543ed5ec15913f47679",
     "packages": [
         {
             "name": "vista-php/database",
@@ -56,7 +56,60 @@
                 "issues": "https://github.com/vista-php/database/issues",
                 "source": "https://github.com/vista-php/database/tree/v1.0.2"
             },
-            "time": "2025-03-19T14:30:08+00:00"
+            "time": "2025-03-19T02:24:41+00:00"
+        },
+        {
+            "name": "vista-php/upload",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/vista-php/upload.git",
+                "reference": "280b182d9ae35b925693c447d8dea6ae53d8f01d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/vista-php/upload/zipball/280b182d9ae35b925693c447d8dea6ae53d8f01d",
+                "reference": "280b182d9ae35b925693c447d8dea6ae53d8f01d",
+                "shasum": ""
+            },
+            "require": {
+                "ext-fileinfo": "*",
+                "ext-pdo": "*",
+                "php": "^8.3"
+            },
+            "require-dev": {
+                "friendsofphp/php-cs-fixer": "^3.68",
+                "mockery/mockery": "^1.6",
+                "phpstan/phpstan": "^2.1",
+                "phpunit/phpunit": "^11.5"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Vista\\Upload\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Dusan Rajcevic",
+                    "email": "dusanrajcevic@hotmail.com"
+                }
+            ],
+            "description": "Upload files library",
+            "keywords": [
+                "files",
+                "library",
+                "upload"
+            ],
+            "support": {
+                "issues": "https://github.com/vista-php/upload/issues",
+                "source": "https://github.com/vista-php/upload/tree/v1.0"
+            },
+            "time": "2025-03-25T17:46:17+00:00"
         }
     ],
     "packages-dev": [
