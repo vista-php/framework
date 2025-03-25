@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "vista-php/database",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/vista-php/database.git",
-                "reference": "04a1a9e54ed9d2e027874f0c028cb65090042d94"
+                "reference": "d92e364eeb86f70980ad0c159c3a8b9548dcc7af"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/vista-php/database/zipball/04a1a9e54ed9d2e027874f0c028cb65090042d94",
-                "reference": "04a1a9e54ed9d2e027874f0c028cb65090042d94",
+                "url": "https://api.github.com/repos/vista-php/database/zipball/d92e364eeb86f70980ad0c159c3a8b9548dcc7af",
+                "reference": "d92e364eeb86f70980ad0c159c3a8b9548dcc7af",
                 "shasum": ""
             },
             "require": {
@@ -54,7 +54,7 @@
             ],
             "support": {
                 "issues": "https://github.com/vista-php/database/issues",
-                "source": "https://github.com/vista-php/database/tree/v1.0.1"
+                "source": "https://github.com/vista-php/database/tree/v1.0.2"
             },
             "time": "2025-03-19T02:24:41+00:00"
         },
