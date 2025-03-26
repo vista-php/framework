@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "vista-php/database",
-            "version": "1.0.2",
+            "version": "1.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/vista-php/database.git",
-                "reference": "d92e364eeb86f70980ad0c159c3a8b9548dcc7af"
+                "reference": "04f1a4b5e4197d9b07e4c28316a50f8ad2efc0ff"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/vista-php/database/zipball/d92e364eeb86f70980ad0c159c3a8b9548dcc7af",
-                "reference": "d92e364eeb86f70980ad0c159c3a8b9548dcc7af",
+                "url": "https://api.github.com/repos/vista-php/database/zipball/04f1a4b5e4197d9b07e4c28316a50f8ad2efc0ff",
+                "reference": "04f1a4b5e4197d9b07e4c28316a50f8ad2efc0ff",
                 "shasum": ""
             },
             "require": {
@@ -54,22 +54,22 @@
             ],
             "support": {
                 "issues": "https://github.com/vista-php/database/issues",
-                "source": "https://github.com/vista-php/database/tree/v1.0.2"
+                "source": "https://github.com/vista-php/database/tree/v1.0.3"
             },
-            "time": "2025-03-19T14:30:08+00:00"
+            "time": "2025-03-26T16:17:14+00:00"
         },
         {
             "name": "vista-php/upload",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/vista-php/upload.git",
-                "reference": "d3a4cc8f6ec92280299cb8922ee2029775382bc0"
+                "reference": "66b35900688728c3d54d52eba9acc666960930cb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/vista-php/upload/zipball/d3a4cc8f6ec92280299cb8922ee2029775382bc0",
-                "reference": "d3a4cc8f6ec92280299cb8922ee2029775382bc0",
+                "url": "https://api.github.com/repos/vista-php/upload/zipball/66b35900688728c3d54d52eba9acc666960930cb",
+                "reference": "66b35900688728c3d54d52eba9acc666960930cb",
                 "shasum": ""
             },
             "require": {
@@ -106,9 +106,9 @@
             ],
             "support": {
                 "issues": "https://github.com/vista-php/upload/issues",
-                "source": "https://github.com/vista-php/upload/tree/v1.0.1"
+                "source": "https://github.com/vista-php/upload/tree/v1.0.2"
             },
-            "time": "2025-03-25T22:34:58+00:00"
+            "time": "2025-03-26T15:57:04+00:00"
         }
     ],
     "packages-dev": [
